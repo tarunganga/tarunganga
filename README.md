@@ -61,7 +61,7 @@
 
 | When | Where | Role |
 |---|---|---|
-| 2022 — Present | **Truckstop** | Senior Software Engineer / Tech Lead |
+| 2022 — Present | **Truckstop** | Senior Software Engineer |
 | 2022 | **RSM US LLP** | Senior Full Stack Developer |
 | 2019 — 2022 | **Bentley Systems** | Senior Web Developer |
 | 2017 — 2019 | **ECFMG** | .NET Developer |
