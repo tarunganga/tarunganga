@@ -59,6 +59,41 @@ batman@batcomputer:~$ cat /batcave/mission.log
 <br>
 
 ```bash
+batman@batcomputer:~$ cat /batcave/career_highlights.log
+```
+
+<br>
+
+| 🏢 | Role | Where | When |
+|---|---|---|---|
+| 🦇 | **Senior Software Engineer** | Truckstop | 2022 — Present |
+| 🔬 | **Senior Full Stack Developer** | RSM US LLP | 2022 |
+| 🏗️ | **Senior Web Developer** | Bentley Systems | 2019 — 2022 |
+| ⚕️ | **.NET Developer** | ECFMG | 2017 — 2019 |
+| 🏥 | **Web Developer** | Providence Health Plans | 2016 — 2017 |
+
+<br>
+
+```bash
+batman@batcomputer:~$ cat /batcave/war_stories.log
+```
+
+<br>
+
+| | |
+|---|---|
+| 🏗️ **Architect** | Designed high-scale platform handling 100M+ records across 3-4K clients |
+| 👥 **Leader** | Lead a team of 6 — task assignment, mentoring, delivery |
+| 📱 **Mobile** | Built cross-platform apps with React Native for iOS & Android |
+| 🤖 **AI/ML** | Implemented OCR & data extraction with Azure Cognitive Services |
+| 🔄 **Real-time** | SignalR, GraphQL subscriptions, Kafka event streaming |
+| ☁️ **Cloud** | Azure & AWS — serverless, containers, CI/CD, monitoring |
+| 🔐 **Security** | SSO, OAuth 2.0, OpenID Connect, TLS auth, Security Champions team |
+| 📊 **Observability** | New Relic, DataDog, OpenTelemetry, custom distributed tracing |
+
+<br>
+
+```bash
 batman@batcomputer:~$ cat /batcave/philosophy.txt
 ```
 
