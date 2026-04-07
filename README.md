@@ -69,13 +69,6 @@ MOTTO:     "It compiled. Ship it." — just kidding... mostly
 ```
 
 ```
-> tarun@earth:~$ ls ./training_grounds/
-```
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://github.com/tarunganga/LeetCode)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://github.com/tarunganga/HackerRank)
-
-```
 > tarun@earth:~$ echo $PHILOSOPHY
 ```
 
