@@ -1,67 +1,73 @@
 <div align="center">
 
-# 👋 Hey, I'm Tarun
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f0a,100:00ff41&height=200&section=header&text=tarun@portfolio:~$&fontSize=36&fontColor=00ff41&fontAlignY=55&animation=fadeIn&desc=&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Full-Stack+Developer;Distributed+Systems+Enthusiast;Civil+Engineer+turned+Code+Builder" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunganga/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunganga@hotmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;Senior+Software+Engineer+%40+Truckstop;%24+cat+about.txt;Full-stack+dev+%7C+San+Diego%2C+CA;%24+echo+%24ORIGIN;Civil+Engineer+turned+Software+Engineer" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-> **`Senior Software Engineer @ Truckstop`** &nbsp; · &nbsp; San Diego, CA
-> Building event-driven microservices · MS in CS from University of Illinois
-> Former civil engineer — I used to build bridges, now I build distributed systems
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunganga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=d0d0d0" width="320" />
 
----
+```bash
+$ cat /etc/profile
+```
+```yaml
+Name:     Tarun Ganga
+Role:     Senior Software Engineer
+Company:  Truckstop
+Location: San Diego, CA
+Focus:    Event-driven Microservices
+Edu:      MS CS — University of Illinois
+Origin:   Civil Eng → Software Eng
+```
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### ⚙️ Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### 🚀 Infrastructure
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🗄️ Data
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-```csharp
-while (alive) { Learn(); Build(); Break(); Fix(); }
+```bash
+$ ls -la ./tech-stack/
 ```
 
-<img src="https://komarev.com/ghpvc/?username=tarunganga&style=flat-square&color=58A6FF" alt="Profile Views" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,react,angular,ts,tailwind&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=kafka,kubernetes,aws,azure,redis,docker,postgres,mongodb&theme=dark" />
+
+<br><br>
+
+```bash
+$ cat ./mission.log
+```
+
+<br>
+
+| | |
+|---|---|
+| 🛸 **Status** | Orbiting the Kafka event stream |
+| 🎯 **Objective** | Wrangle 100M+ records into submission |
+| 🔧 **Weapons** | .NET Core · Kafka · Snowflake · Redis |
+| 🛡️ **Defense** | Circuit breakers armed, retries locked |
+| 💬 **Motto** | *Built bridges before software — same traffic, fewer trucks* |
+
+<br>
+
+```bash
+$ while true; do learn && build && break_stuff && fix; done
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunganga/)
+[![Email](https://img.shields.io/badge/Contact-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:tarunganga@hotmail.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f0a,100:00ff41&height=120&section=footer&text=exit%200&fontSize=24&fontColor=00ff41&fontAlignY=50" width="100%" />
 
 </div>
