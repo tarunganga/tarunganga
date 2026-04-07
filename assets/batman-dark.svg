@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <defs>
+    <linearGradient id="batGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a3a5c"/>
+      <stop offset="100%" style="stop-color:#4a9eff"/>
+    </linearGradient>
+  </defs>
+  <path d="M100 10
+           C100 10, 85 35, 60 25
+           C45 20, 30 30, 15 50
+           C5 65, 15 85, 30 90
+           C45 95, 55 80, 65 75
+           C75 70, 85 85, 100 110
+           C115 85, 125 70, 135 75
+           C145 80, 155 95, 170 90
+           C185 85, 195 65, 185 50
+           C170 30, 155 20, 140 25
+           C115 35, 100 10, 100 10Z"
+        fill="url(#batGrad)" opacity="0.9"/>
+</svg>
