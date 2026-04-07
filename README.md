@@ -8,22 +8,19 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunganga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=d0d0d0" width="320" />
+<div align="center">
 
 ```bash
 $ cat /etc/profile
 ```
-```yaml
-Name:     Tarun Ganga
-Role:     Senior Software Engineer
-Company:  Truckstop
-Location: San Diego, CA
-Focus:    Event-driven Microservices
-Edu:      MS CS — University of Illinois
-Origin:   Civil Eng → Software Eng
-```
 
-<br clear="right"/>
+</div>
+
+> **Name:** Tarun Ganga &nbsp; · &nbsp; **Role:** Senior Software Engineer @ Truckstop
+>
+> **Location:** San Diego, CA &nbsp; · &nbsp; **Focus:** Event-driven Microservices
+>
+> **Edu:** MS CS, University of Illinois &nbsp; · &nbsp; **Origin:** Civil Eng → Software Eng
 
 ---
 
