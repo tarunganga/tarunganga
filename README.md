@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:FFD700&height=200&section=header&text=tarun@batcave:~$&fontSize=36&fontColor=FFD700&fontAlignY=55&animation=fadeIn" width="100%" />
 
