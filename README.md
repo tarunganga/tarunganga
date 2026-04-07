@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:FFD700&height=200&section=header&text=tarun@batcave:~$&fontSize=36&fontColor=FFD700&fontAlignY=55&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%24+whoami;I'm+not+the+developer+you+deserve...;...but+the+one+you+need+right+now;%24+cat+identity.txt;Senior+Software+Engineer+%40+Truckstop;%24+echo+%24LOCATION;San+Diego%2C+CA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%24+whoami;I'm+not+the+developer+you+deserve...;...but+the+one+you+need+right+now;%24+cat+roles.txt;Tech+Lead+%7C+Architect+%7C+Full-Stack+Engineer;%24+echo+%24BASE;San+Diego%2C+CA" alt="Typing SVG" />
 
 </div>
 
@@ -18,9 +18,11 @@ batman@batcomputer:~$ cat /etc/profile
 
 > 🦇 **Name:** Tarun Ganga &nbsp; · &nbsp; **Alias:** Senior Software Engineer @ Truckstop
 >
-> 🌃 **Base:** San Diego, CA &nbsp; · &nbsp; **Mission:** Event-driven Microservices
+> 🌃 **Base:** San Diego, CA &nbsp; · &nbsp; **Years Active:** 9+
 >
 > 🎓 **Training:** MS CS, University of Illinois &nbsp; · &nbsp; **Origin:** Civil Eng → Software Eng
+>
+> 🎯 **Specialties:** Full-stack development, distributed systems, team leadership, cloud architecture
 
 ---
 
@@ -47,10 +49,10 @@ batman@batcomputer:~$ cat /batcave/mission.log
 | | |
 |---|---|
 | 🦇 **Codename** | The Dark Developer |
-| 🌃 **Status** | Patrolling the Kafka event stream |
-| 🎯 **Objective** | Wrangle 100M+ records in Gotham's databases |
-| 🔧 **Utility Belt** | .NET Core · Kafka · Snowflake · Redis |
-| 🛡️ **Defense** | Circuit breakers armed, retries locked |
+| 🌃 **Status** | Leading a team of 6 by day, shipping code by night |
+| 🎯 **Missions** | Microservices · Web & Mobile Apps · Cloud Platforms · Data Pipelines |
+| 🔧 **Utility Belt** | .NET · React · Angular · Go · Kafka · K8s · AWS · Azure |
+| 🛡️ **Defense** | Circuit breakers, chaos testing, observability |
 | 🃏 **Nemesis** | Production bugs at 3 AM |
 | 💬 **Motto** | *Built bridges before software — same traffic, fewer explosions* |
 
