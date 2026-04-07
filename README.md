@@ -16,11 +16,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunganga/)
-[![Email](https://img.shields.io/badge/%F0%9F%A6%87_Bat_Signal-4a9eff?style=for-the-badge&logoColor=black)](mailto:tarunganga@hotmail.com)
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tarunganga&theme=darkhub&no-frame=true&column=4&title=Commits,Repositories,Stars,Followers&margin-w=15" alt="Trophies" />
+[![Email](https://img.shields.io/badge/Email-4a9eff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:tarunganga@hotmail.com)
 
 </div>
 
